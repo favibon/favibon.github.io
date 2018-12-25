@@ -1,3 +1,7 @@
 p {
   font-family: fantasy;
+  transition: 250ms;
+}
+p:hover {
+  color: lightpink;
 }
